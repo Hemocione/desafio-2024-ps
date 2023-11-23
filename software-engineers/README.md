@@ -27,3 +27,15 @@ Este projeto consiste em um encurtador de links com funcionalidades adicionais, 
 - As tecnologias apresentadas, com exceção do Docker, não são obrigatórias. Contudo, saiba que o Hemocione utiliza majoritariamente o [Node.JS](https://nodejs.org), logo, é interessante que o projeto seja feito com tecnologias desse ecossistema (exemplo: Next.js, Vue.js, React, Svelte, Express, Nest.js, etc.).
 - Não é necessário desenvolver nenhum sistema de autenticação - mas você está livre para fazê-lo se assim quiser.
 - Testes automatizados são interessantes mas não obrigatórios! Faça-os apenas se quiser :)
+- Utilize o Git e o Github para versionamento do seu código!
+
+
+## Entrega
+
+Para entregar o projeto, basta enviar um email para `guima@hemocione.com.br` com assunto **PROCESSO SELETIVO SOFTWARE ENGINEER - 2024** com o link do projeto no github.
+
+## Dúvidas
+
+Se tiver alguma dúvida durante o processo, entre em contato via email com `guima@hemocione.com.br`, e coloque no assunto **DÚVIDAS PROCESSO SELETIVO SOFTWARE ENGINEER - 2024**
+
+Boa sorte e divirta-se :D!
