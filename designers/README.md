@@ -33,7 +33,7 @@ O objetivo deste desafio é criar um design para a interface de um encurtador de
 ## Estilo e Diretrizes
 
 - **Cores e Tipografia:** Escolha uma paleta de cores atraente e uma tipografia legível.
-- **Responsividade:** Certifique-se de que o design seja responsivo para diferentes tamanhos de tela.
+- **Responsividade:** Certifique-se de que o design seja responsivo para diferentes tamanhos de tela - seja mobile first!
 - **Elementos Visuais:** Utilize ícones, imagens e outros elementos visuais de forma coerente.
 
 ## Como Participar
@@ -45,13 +45,12 @@ O objetivo deste desafio é criar um design para a interface de um encurtador de
 2. **Explicações Adicionais:**
    - Inclua notas ou comentários explicativos, se necessário, para orientar a navegação pelo design.
 
+## Entrega
 
-## Prazo
-
-O prazo para a entrega do design é [insira aqui o prazo].
+Para entregar o projeto, basta enviar um email para `guima@hemocione.com.br` com assunto **PROCESSO SELETIVO DESIGN - 2024** com o link do figma e o seu currículo em anexo!
 
 ## Dúvidas
 
 Se tiver alguma dúvida durante o processo, entre em contato via email com `guima@hemocione.com.br`, e coloque no assunto **DÚVIDAS PROCESSO SELETIVO DESIGN - 2024**
 
-Boa sorte e divirta-se :D!
+Boa sorte e divirta-se! :D

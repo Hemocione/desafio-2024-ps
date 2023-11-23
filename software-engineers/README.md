@@ -32,10 +32,10 @@ Este projeto consiste em um encurtador de links com funcionalidades adicionais, 
 
 ## Entrega
 
-Para entregar o projeto, basta enviar um email para `guima@hemocione.com.br` com assunto **PROCESSO SELETIVO SOFTWARE ENGINEER - 2024** com o link do projeto no github.
+Para entregar o projeto, basta enviar um email para `guima@hemocione.com.br` com assunto **PROCESSO SELETIVO SOFTWARE ENGINEER - 2024** com o link do projeto no github e o seu currículo em anexo!
 
 ## Dúvidas
 
 Se tiver alguma dúvida durante o processo, entre em contato via email com `guima@hemocione.com.br`, e coloque no assunto **DÚVIDAS PROCESSO SELETIVO SOFTWARE ENGINEER - 2024**
 
-Boa sorte e divirta-se :D!
+Boa sorte e divirta-se! :D
